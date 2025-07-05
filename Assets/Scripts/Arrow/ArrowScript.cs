@@ -24,4 +24,9 @@ public class ArrowScript : MonoBehaviour
         Direction = direction;
     }
 
+    public void DestroyArrow()
+    {
+        Destroy(gameObject);
+    }
+
 }
