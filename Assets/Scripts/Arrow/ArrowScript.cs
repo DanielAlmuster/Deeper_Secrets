@@ -14,7 +14,7 @@ public class ArrowScript : MonoBehaviour
 
     void Update()
     {
-        Rigidbody2D.velocity = Direction * Speed;
+        Rigidbody2D.linearVelocity = Direction * Speed;
 
 
     }
