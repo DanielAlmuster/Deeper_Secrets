@@ -29,4 +29,20 @@ public class ArrowScript : MonoBehaviour
         Destroy(gameObject);
     }
 
+    void OnCollisionEnter2D(Collision2D collision)
+{
+    if (collision.collider.CompareTag("Terreno"))
+    {
+        Rigidbody2D.linearVelocity = Vector2.zero;
+        Rigidbody2D.bodyType = RigidbodyType2D.Kinematic; 
+        Rigidbody2D.freezeRotation = true;
+        Destroy(this); 
+    }
+    if (collision.collider.CompareTag("Flecha"))
+    {
+            DestroyArrow(); 
+    }
+}
+
+
 }
