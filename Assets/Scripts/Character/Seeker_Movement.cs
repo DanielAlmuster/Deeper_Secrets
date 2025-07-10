@@ -11,6 +11,8 @@ public class Seeker_Movement : MonoBehaviour
     private Rigidbody2D RigidBody2D;
     private Animator Animator;
     private float Horizontal;
+    private Queue<GameObject> arrowList = new Queue<GameObject>();
+    private int maxArrows = 3;
 
     void Start()
     {
@@ -58,6 +60,15 @@ public class Seeker_Movement : MonoBehaviour
 
     private void Shoot()
     {
+
+        if (arrowList.Count >= maxArrows)
+        {
+            GameObject oldestArrow = arrowList.Dequeue();
+            if (oldestArrow != null)
+            {
+                Destroy(oldestArrow);
+            }
+        }
         //Detector de dirección
         Vector3 direction;
         if (transform.localScale.x == 1.0f) direction = Vector2.right;
@@ -65,5 +76,7 @@ public class Seeker_Movement : MonoBehaviour
         //Utiliza el prefab indicado y lo duplica en una parte del mundo, sin rotación
         GameObject arrow = Instantiate(ArrowPrefab, transform.position + direction * 0.1f, Quaternion.identity);
         arrow.GetComponent<ArrowScript>().SetDirection(direction);
+
+        arrowList.Enqueue(arrow);
     }
 }
