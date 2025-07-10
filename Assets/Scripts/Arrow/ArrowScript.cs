@@ -10,11 +10,12 @@ public class ArrowScript : MonoBehaviour
     void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
+        Rigidbody2D.linearVelocity = Direction * Speed;
+        Rigidbody2D.gravityScale = 0.2f;
     }
 
     void Update()
     {
-        Rigidbody2D.linearVelocity = Direction * Speed;
 
 
     }
