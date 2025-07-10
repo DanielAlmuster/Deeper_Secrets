@@ -46,6 +46,10 @@ public class Seeker_Movement : MonoBehaviour
         {
             Shoot();
         }
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            ClearAllArrows();
+        }
     }
 
     private void FixedUpdate()
@@ -58,7 +62,7 @@ public class Seeker_Movement : MonoBehaviour
         RigidBody2D.AddForce(Vector2.up * JumpForce);
     }
 
-    
+
 
     private void Shoot()
     {
@@ -83,4 +87,14 @@ public class Seeker_Movement : MonoBehaviour
 
         arrowList.Enqueue(arrow);
     }
+    
+    private void ClearAllArrows()
+{
+    foreach (GameObject arrow in arrowList)
+    {
+        if (arrow != null)
+            Destroy(arrow);
+    }
+    arrowList.Clear();
+}
 }
