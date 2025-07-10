@@ -58,6 +58,8 @@ public class Seeker_Movement : MonoBehaviour
         RigidBody2D.AddForce(Vector2.up * JumpForce);
     }
 
+    
+
     private void Shoot()
     {
 
@@ -69,12 +71,14 @@ public class Seeker_Movement : MonoBehaviour
                 Destroy(oldestArrow);
             }
         }
-        //Detector de dirección
-        Vector3 direction;
-        if (transform.localScale.x == 1.0f) direction = Vector2.right;
-        else direction = Vector2.left;
-        //Utiliza el prefab indicado y lo duplica en una parte del mundo, sin rotación
-        GameObject arrow = Instantiate(ArrowPrefab, transform.position + direction * 0.1f, Quaternion.identity);
+
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mouseWorldPos.z = 0;
+
+        Vector2 direction = (mouseWorldPos - transform.position).normalized;
+
+        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.1f), Quaternion.identity);
+
         arrow.GetComponent<ArrowScript>().SetDirection(direction);
 
         arrowList.Enqueue(arrow);
