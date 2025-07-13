@@ -10,5 +10,6 @@ public class CameraScript : MonoBehaviour
         position.x = Seeker.transform.position.x;
         position.y = Seeker.transform.position.y;
         transform.position = position;
+        
     }
 }

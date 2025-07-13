@@ -32,7 +32,7 @@ public class Seeker_Movement : MonoBehaviour
         Animator.SetBool("Running", Horizontal != 0.0f);
 
         Debug.DrawRay(transform.position, Vector3.down * 0.1f, Color.red);
-        if (Physics2D.Raycast(transform.position, Vector3.down, 0.1f))
+        if (Physics2D.Raycast(transform.position, Vector3.down, 0.4f))
         {
             Grounded = true;
         }
@@ -54,7 +54,7 @@ public class Seeker_Movement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        RigidBody2D.linearVelocity = new Vector2(Horizontal, RigidBody2D.linearVelocity.y);
+        RigidBody2D.linearVelocity = new Vector2(Horizontal * Speed, RigidBody2D.linearVelocity.y);
     }
 
     private void Jump()
