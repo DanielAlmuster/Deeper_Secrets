@@ -26,8 +26,8 @@ public class Seeker_Movement : MonoBehaviour
     {
         Horizontal = Input.GetAxisRaw("Horizontal");
 
-        if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-        else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.25f, 0.25f, 1.0f);
+        else if (Horizontal > 0.0f) transform.localScale = new Vector3(0.25f, 0.25f, 1.0f);
 
         Animator.SetBool("Running", Horizontal != 0.0f);
 
