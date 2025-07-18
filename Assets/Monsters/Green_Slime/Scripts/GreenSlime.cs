@@ -8,6 +8,7 @@ public class GreenSlime : MonoBehaviour
     private Rigidbody2D rb;
     private float jumpTimer = 2f;
     public float jumpForce;
+    public Seeker_Life seekerLife;
 
     private void Start()
     {
@@ -32,11 +33,18 @@ public class GreenSlime : MonoBehaviour
     }
 
     private void JumpToSeeker()
-{
-    float directionX = Mathf.Sign(Seeker.transform.position.x - transform.position.x);
+    {
+        float directionX = Mathf.Sign(Seeker.transform.position.x - transform.position.x);
 
-    Vector2 jumpDirection = new Vector2(directionX, 1f).normalized;
+        Vector2 jumpDirection = new Vector2(directionX, 1f).normalized;
 
-    rb.AddForce(jumpDirection * jumpForce, ForceMode2D.Impulse);
-}
+        rb.AddForce(jumpDirection * jumpForce, ForceMode2D.Impulse);
+    }
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Seeker"))
+        {
+            seekerLife.LoseLife();
+        }
+    }
 }
