@@ -8,6 +8,11 @@ public class Seeker_Life : MonoBehaviour
     public void LoseLife()
     {
         lifes -= 1;
+        if (lifes <= 0)
+        {
+            
+        }
+
         hud.LoseLife(lifes);
     }
 

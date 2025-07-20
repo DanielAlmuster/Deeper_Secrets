@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 55ace0b47a4b9374da5f9a40ce34e6d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4827089389896117612
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_0
+  - first:
+      213: -3538680899603404273
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_1
+  - first:
+      213: -7064449289643536795
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_2
+  - first:
+      213: 447052532063124780
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_3
+  - first:
+      213: 5862877714597778140
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_4
+  - first:
+      213: 4263094944260033961
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_5
+  - first:
+      213: 6637884871415573579
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_6
+  - first:
+      213: -1917581166801758045
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_7
+  - first:
+      213: 3977243547234035412
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_8
+  - first:
+      213: -3356180545014990965
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_9
+  - first:
+      213: 2077252050304167190
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_10
+  - first:
+      213: -7969873183928811581
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_11
+  - first:
+      213: -1101144458838031739
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_12
+  - first:
+      213: -3672359109644642452
+    second: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da0df99344df240800000000000000
+      internalID: 4827089389896117612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aeda5787414eec0800000000000000
+      internalID: -3538680899603404273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4905dcc806fd90800000000000000
+      internalID: -7064449289643536795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dbf89c8ef343600800000000000000
+      internalID: 447052532063124780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29724f7302d5150800000000000000
+      internalID: 5862877714597778140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0264d34e892b30800000000000000
+      internalID: 4263094944260033961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c2aac1f118e1c50800000000000000
+      internalID: 6637884871415573579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85dcca6126365e0800000000000000
+      internalID: -1917581166801758045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d669121fe1023730800000000000000
+      internalID: 3977243547234035412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fd4c73937c61d0800000000000000
+      internalID: -3356180545014990965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de457ebb1e3dc10800000000000000
+      internalID: 2077252050304167190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff20fb092556190800000000000000
+      internalID: -7969873183928811581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c194e2f2f7b0f0800000000000000
+      internalID: -1101144458838031739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2-Sheet_48x36_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6716f5c8d8290dc0800000000000000
+      internalID: -3672359109644642452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6e52090a25a8a142be4156af3b6beb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_0: 4827089389896117612
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_1: -3538680899603404273
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_10: 2077252050304167190
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_11: -7969873183928811581
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_12: -1101144458838031739
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_13: -3672359109644642452
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_2: -7064449289643536795
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_3: 447052532063124780
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_4: 5862877714597778140
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_5: 4263094944260033961
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_6: 6637884871415573579
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_7: -1917581166801758045
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_8: 3977243547234035412
+      Sprite-0001_STANDING_verdadera_2-Sheet_48x36_9: -3356180545014990965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
