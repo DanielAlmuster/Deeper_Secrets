@@ -35,6 +35,7 @@ public class Seeker_Movement : MonoBehaviour
         if (Physics2D.Raycast(transform.position, Vector3.down, 0.4f))
         {
             Grounded = true;
+            Animator.SetBool("Jumping", false);
         }
         else Grounded = false;
 
@@ -59,7 +60,9 @@ public class Seeker_Movement : MonoBehaviour
 
     private void Jump()
     {
+        Animator.SetBool("Jumping", true);
         RigidBody2D.AddForce(Vector2.up * JumpForce);
+        
     }
 
 

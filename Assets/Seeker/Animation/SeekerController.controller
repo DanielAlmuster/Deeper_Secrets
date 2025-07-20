@@ -20,7 +20,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: b1a66446cf92f9a48a5e8177eebe69e6, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9b49cc47d382866448d6f7db94dc00e9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -54,7 +54,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SeekerIdle
+  m_Name: SeekerController
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
