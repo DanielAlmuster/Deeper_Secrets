@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Seeker_Life : MonoBehaviour
 {
@@ -8,9 +9,9 @@ public class Seeker_Life : MonoBehaviour
     public void LoseLife()
     {
         lifes -= 1;
-        if (lifes <= 0)
+        if (lifes == 0)
         {
-            
+            SceneManager.LoadScene(0);
         }
 
         hud.LoseLife(lifes);
