@@ -9,6 +9,7 @@ public class GreenSlime : MonoBehaviour
     private float jumpTimer = 2f;
     public float jumpForce;
     public Seeker_Life seekerLife;
+    public float detectionRadius = 5.0f;
 
     private void Start()
     {
@@ -27,8 +28,12 @@ public class GreenSlime : MonoBehaviour
 
         if (jumpTimer <= 0f)
         {
-            JumpToSeeker();
-            jumpTimer = 2f;
+            float distanceToPlayer = Vector2.Distance(transform.position, Seeker.transform.position);
+            if (distanceToPlayer < detectionRadius)
+            {
+                JumpToSeeker();
+                jumpTimer = 2f;
+            }
         }
     }
 
@@ -40,6 +45,8 @@ public class GreenSlime : MonoBehaviour
 
         rb.AddForce(jumpDirection * jumpForce, ForceMode2D.Impulse);
     }
+
+    //Other hace referencia al objeto con el que choca
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Seeker"))
