@@ -3370,6 +3370,7 @@ MonoBehaviour:
   ArrowPrefab: {fileID: 2884709784740757520, guid: 05be21ec9f358034c87da02411925fbe, type: 3}
   Speed: 3
   JumpForce: 200
+  KnockbackForce: 10
 --- !u!95 &871688982
 Animator:
   serializedVersion: 7
