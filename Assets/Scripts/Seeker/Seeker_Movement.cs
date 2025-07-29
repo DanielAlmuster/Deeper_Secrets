@@ -89,11 +89,21 @@ public class Seeker_Movement : MonoBehaviour
 
         Vector2 direction = (mouseWorldPos - transform.position).normalized;
 
-        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.1f), Quaternion.identity);
+        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
 
         arrow.GetComponent<ArrowScript>().SetDirection(direction);
 
         arrowList.Enqueue(arrow);
+
+        if (direction.x < 0)
+            {
+                arrow.transform.localScale = new Vector3(-0.183392f, 0.245804f, 1f);
+            }
+        else
+            {
+                arrow.transform.localScale = new Vector3(0.183392f, 0.245804f, 1f);
+            }
+
     }
 
     private void ClearAllArrows()

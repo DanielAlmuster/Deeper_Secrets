@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1919567121605328396}
   - component: {fileID: 4713005059873673320}
   - component: {fileID: 2713113836025634190}
-  - component: {fileID: 4697669625153802556}
+  - component: {fileID: 1738392771928347598}
   m_Layer: 0
   m_Name: ArrowPrefab
   m_TagString: Arrow
@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.0835547, y: 0.5071197, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.183392, y: 0.245804, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -80,12 +80,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5902855450250165542, guid: 0e8ef9779efcc3f40880a1c6d36e3691, type: 3}
+  m_Sprite: {fileID: -2907654730383276755, guid: 520a392c46ecdf046aec60ad40528ca4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.08, y: 0.08}
+  m_Size: {x: 3.22, y: 0.72}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f76bbd88d86d43468b1979a6d1b1d57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 2
+  Speed: 4
 --- !u!50 &2713113836025634190
 Rigidbody2D:
   serializedVersion: 5
@@ -153,8 +153,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &4697669625153802556
-CircleCollider2D:
+--- !u!61 &1738392771928347598
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -188,4 +188,14 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.04
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.22, y: 0.72}
+    newSize: {x: 3.22, y: 0.72}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 3.22, y: 0.72}
+  m_EdgeRadius: 0
