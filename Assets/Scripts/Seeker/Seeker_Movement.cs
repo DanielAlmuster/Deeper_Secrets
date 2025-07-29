@@ -95,14 +95,7 @@ public class Seeker_Movement : MonoBehaviour
 
         arrowList.Enqueue(arrow);
 
-        if (direction.x < 0)
-            {
-                arrow.transform.localScale = new Vector3(-0.183392f, 0.245804f, 1f);
-            }
-        else
-            {
-                arrow.transform.localScale = new Vector3(0.183392f, 0.245804f, 1f);
-            }
+        
 
     }
 

@@ -7,6 +7,7 @@ public class ArrowScript : MonoBehaviour
     public float Speed;
     private Rigidbody2D Rigidbody2D;
     private Vector2 Direction;
+    private Vector2 velocity;
     void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
@@ -16,7 +17,11 @@ public class ArrowScript : MonoBehaviour
 
     void Update()
     {
-
+        if (Rigidbody2D.linearVelocity != Vector2.zero)
+        {
+            float angle = Mathf.Atan2(Rigidbody2D.linearVelocity.y, Rigidbody2D.linearVelocity.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Euler(0, 0, angle);
+        }
 
     }
 
