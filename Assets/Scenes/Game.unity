@@ -3214,6 +3214,7 @@ GameObject:
   - component: {fileID: 871688981}
   - component: {fileID: 871688982}
   - component: {fileID: 871688983}
+  - component: {fileID: 871688984}
   m_Layer: 0
   m_Name: Seeker
   m_TagString: Seeker
@@ -3406,6 +3407,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hud: {fileID: 905591684}
+--- !u!114 &871688984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 871688976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2ade665418afa34e94f9ec10324fc41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powers: []
+  actualPower: Leaf
 --- !u!1 &905591679
 GameObject:
   m_ObjectHideFlags: 0
@@ -4337,6 +4352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1c16c949fd780843b6bb4b1a6332483, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fireArrowPickUp: {fileID: 3399218916201428463, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
 --- !u!95 &1401950669
 Animator:
   serializedVersion: 7

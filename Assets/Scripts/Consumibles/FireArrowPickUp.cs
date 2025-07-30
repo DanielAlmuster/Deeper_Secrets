@@ -10,4 +10,13 @@ public class FireArrowPickUp : MonoBehaviour
         rigidbody2D.AddForce(Vector2.up * dropForce, ForceMode2D.Impulse);
         rigidbody2D.freezeRotation = true;
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Seeker"))
+        {
+            Destroy(this.gameObject);
+        }
+
+    }
 }

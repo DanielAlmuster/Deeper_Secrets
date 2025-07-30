@@ -5,6 +5,7 @@ using UnityEngine;
 public class Seeker_Movement : MonoBehaviour
 {
     public GameObject ArrowPrefab;
+    private Seeker_Powers playerPowers;
     public float Speed;
     public float JumpForce;
     public float KnockbackForce;
@@ -23,6 +24,8 @@ public class Seeker_Movement : MonoBehaviour
         Animator = GetComponent<Animator>();
 
         RigidBody2D.freezeRotation = true;
+
+        playerPowers = GetComponent<Seeker_Powers>();
     }
 
     void Update()
@@ -47,8 +50,36 @@ public class Seeker_Movement : MonoBehaviour
         }
         if (Input.GetMouseButtonDown(0))
         {
-            Shoot();
+            if (playerPowers.actualPower == "Leaf")
+            {
+                Shoot();
+            }
+            if (playerPowers.actualPower == "Fire")
+            {
+                ShootFire();
+            }
+            if (playerPowers.actualPower == "Ice")
+            {
+                ShootIce();
+            }
+            
         }
+
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            playerPowers.ChangePower(1f);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            playerPowers.ChangePower(2f);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            playerPowers.ChangePower(3f);
+        }
+
         if (Input.GetKeyDown(KeyCode.R))
         {
             ClearAllArrows();
@@ -60,6 +91,14 @@ public class Seeker_Movement : MonoBehaviour
         RigidBody2D.linearVelocity = new Vector2(Horizontal * Speed, RigidBody2D.linearVelocity.y);
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.gameObject.CompareTag("FirePowerUp"))
+            {
+                playerPowers.ActiveFireArrows();
+            }
+
+        }
     private void Jump()
     {
         Animator.SetBool("Jumping", true);
@@ -73,6 +112,60 @@ public class Seeker_Movement : MonoBehaviour
     }
 
     private void Shoot()
+    {
+
+        if (arrowList.Count >= maxArrows)
+        {
+            GameObject oldestArrow = arrowList.Dequeue();
+            if (oldestArrow != null)
+            {
+                Destroy(oldestArrow);
+            }
+        }
+
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mouseWorldPos.z = 0;
+
+        Vector2 direction = (mouseWorldPos - transform.position).normalized;
+
+        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
+
+        arrow.GetComponent<ArrowScript>().SetDirection(direction);
+
+        arrowList.Enqueue(arrow);
+
+        
+
+    }
+
+    private void ShootFire()
+    {
+
+        if (arrowList.Count >= maxArrows)
+        {
+            GameObject oldestArrow = arrowList.Dequeue();
+            if (oldestArrow != null)
+            {
+                Destroy(oldestArrow);
+            }
+        }
+
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mouseWorldPos.z = 0;
+
+        Vector2 direction = (mouseWorldPos - transform.position).normalized;
+
+        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
+
+        arrow.GetComponent<ArrowScript>().SetDirection(direction);
+
+        arrowList.Enqueue(arrow);
+
+        
+
+    }
+
+    private void ShootIce()
     {
 
         if (arrowList.Count >= maxArrows)
