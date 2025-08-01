@@ -17,6 +17,10 @@ public class FireArrowPickUp : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
-
+        if (other.CompareTag("Ground")) 
+        {
+            GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+            GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+        }
     }
 }

@@ -30,6 +30,7 @@ public class Seeker_Powers : MonoBehaviour
             actualPower = powers[2];
         }
     }
+    
 
     public void ActiveFireArrows()
     {

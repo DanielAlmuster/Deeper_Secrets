@@ -6,6 +6,7 @@ public class Seeker_Movement : MonoBehaviour
 {
     public GameObject ArrowPrefab;
     private Seeker_Powers playerPowers;
+    private GameManager gameManager;
     public float Speed;
     public float JumpForce;
     public float KnockbackForce;
@@ -22,6 +23,7 @@ public class Seeker_Movement : MonoBehaviour
     {
         RigidBody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
+        gameManager = FindObjectOfType<GameManager>();
 
         RigidBody2D.freezeRotation = true;
 
@@ -68,14 +70,16 @@ public class Seeker_Movement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             playerPowers.ChangePower(1f);
+            gameManager.changePowerNormal();
         }
 
-        if (Input.GetKeyDown(KeyCode.Alpha2))
+        if (Input.GetKeyDown(KeyCode.Alpha2) && playerPowers.FireActive == true)
         {
             playerPowers.ChangePower(2f);
+            gameManager.changePowerFire();
         }
 
-        if (Input.GetKeyDown(KeyCode.Alpha3))
+        if (Input.GetKeyDown(KeyCode.Alpha3) && playerPowers.IceActive == true)
         {
             playerPowers.ChangePower(3f);
         }
