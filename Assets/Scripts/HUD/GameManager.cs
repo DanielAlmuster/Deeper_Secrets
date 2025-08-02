@@ -23,28 +23,9 @@ public class GameManager : MonoBehaviour
     }
 
     public void changePowerNormal()
-{
-    Debug.Log("powerSelector is null? " + (powerSelector == null));
-    if (powerSelector != null)
     {
-        Image img = powerSelector.GetComponent<Image>();
-        Debug.Log("Image component is null? " + (img == null));
-        if (img != null)
-        {
-            img.sprite = NormalArrow;
-            Debug.Log("Sprite changed!");
-        }
-        else
-        {
-            Debug.LogError("No Image component found!");
-        }
+        powerSelector.GetComponent<Image>().sprite = NormalArrow;
     }
-    else
-    {
-        Debug.LogError("powerSelector is not assigned!");
-    }
-}
-
     public void changePowerFire()
     {
         powerSelector.GetComponent<Image>().sprite = FireArrow;

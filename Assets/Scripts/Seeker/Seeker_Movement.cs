@@ -101,7 +101,10 @@ public class Seeker_Movement : MonoBehaviour
             {
                 playerPowers.ActiveFireArrows();
             }
-
+            if (other.gameObject.CompareTag("Arrow")||Input.GetKeyDown(KeyCode.W))
+            {
+                Jump();
+            }
         }
     private void Jump()
     {
