@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class Seeker_Movement : MonoBehaviour
@@ -12,6 +13,7 @@ public class Seeker_Movement : MonoBehaviour
     public float KnockbackForce;
     private bool Grounded;
     private bool Damage = false;
+    public bool Death = false;
     private Rigidbody2D RigidBody2D;
     private Animator Animator;
     private float Horizontal;
@@ -32,6 +34,8 @@ public class Seeker_Movement : MonoBehaviour
 
     void Update()
     {
+        if(Death==false)
+        {
         Horizontal = Input.GetAxisRaw("Horizontal");
 
         if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.25f, 0.25f, 1.0f);
@@ -89,7 +93,7 @@ public class Seeker_Movement : MonoBehaviour
             ClearAllArrows();
         }
     }
-
+}
     private void FixedUpdate()
     {
         RigidBody2D.linearVelocity = new Vector2(Horizontal * Speed, RigidBody2D.linearVelocity.y);
@@ -117,6 +121,11 @@ public class Seeker_Movement : MonoBehaviour
     {
         Animator.SetBool("Jumping", false);
     }
+    
+    public void LoseGame()
+    {
+        SceneManager.LoadScene(0);
+    }
 
     private void Shoot()
     {
@@ -141,7 +150,7 @@ public class Seeker_Movement : MonoBehaviour
 
         arrowList.Enqueue(arrow);
 
-        
+
 
     }
 
