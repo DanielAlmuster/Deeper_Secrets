@@ -9,6 +9,7 @@ TagManager:
   - Seeker
   - Heart
   - FirePowerUp
+  - FireArrow
   layers:
   - Default
   - TransparentFX

@@ -6,6 +6,7 @@ using UnityEngine;
 public class Seeker_Movement : MonoBehaviour
 {
     public GameObject ArrowPrefab;
+    public GameObject FireArrowPrefab;
     private Seeker_Powers playerPowers;
     private GameManager gameManager;
     public float Speed;
@@ -157,7 +158,7 @@ public class Seeker_Movement : MonoBehaviour
     private void ShootFire()
     {
 
-        if (arrowList.Count >= maxArrows)
+        if (arrowList.Count >= 1)
         {
             GameObject oldestArrow = arrowList.Dequeue();
             if (oldestArrow != null)
@@ -171,9 +172,9 @@ public class Seeker_Movement : MonoBehaviour
 
         Vector2 direction = (mouseWorldPos - transform.position).normalized;
 
-        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
+        GameObject arrow = Instantiate(FireArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
 
-        arrow.GetComponent<ArrowScript>().SetDirection(direction);
+        arrow.GetComponent<FireArrowScript>().SetDirection(direction);
 
         arrowList.Enqueue(arrow);
 
