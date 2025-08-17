@@ -10,6 +10,7 @@ TagManager:
   - Heart
   - FirePowerUp
   - FireArrow
+  - EnemyIceArrow
   layers:
   - Default
   - TransparentFX

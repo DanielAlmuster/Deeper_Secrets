@@ -35,6 +35,12 @@ public class Seeker_Movement : MonoBehaviour
 
     void Update()
     {
+        if (Death)
+        {
+            RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionX;
+            RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionY;  
+            RigidBody2D.freezeRotation = true;
+        }
         if(Death==false)
         {
         Horizontal = Input.GetAxisRaw("Horizontal");
