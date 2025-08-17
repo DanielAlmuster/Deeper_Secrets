@@ -21,6 +21,8 @@ public class Seeker_Movement : MonoBehaviour
     private Queue<GameObject> arrowList = new Queue<GameObject>();
     private int maxArrows = 3;
 
+    public float fireCooldown = 2f;
+    private float fireTimer = 0f;
 
     void Start()
     {
@@ -43,6 +45,10 @@ public class Seeker_Movement : MonoBehaviour
         }
         if(Death==false)
         {
+        if (fireTimer > 0)
+        fireTimer -= Time.deltaTime;
+
+        //Cambio de sprite
         Horizontal = Input.GetAxisRaw("Horizontal");
 
         if (Horizontal < 0.0f) transform.localScale = new Vector3(-0.25f, 0.25f, 1.0f);
@@ -67,9 +73,10 @@ public class Seeker_Movement : MonoBehaviour
             {
                 Shoot();
             }
-            if (playerPowers.actualPower == "Fire")
+            if (playerPowers.actualPower == "Fire" && fireTimer <= 0f)
             {
                 ShootFire();
+                fireTimer = fireCooldown;
             }
             if (playerPowers.actualPower == "Ice")
             {

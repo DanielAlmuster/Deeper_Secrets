@@ -35,7 +35,6 @@ public class FireArrowScript : MonoBehaviour
             Rigidbody2D.linearVelocity = Vector2.zero;
             Rigidbody2D.bodyType = RigidbodyType2D.Kinematic;
             Rigidbody2D.freezeRotation = true;
-            Destroy(this);
             Destroy(gameObject);
         }
         
