@@ -15,6 +15,8 @@ public class GreenSlime : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
+        Seeker = GameObject.FindWithTag("Seeker");
+        seekerLife = Seeker.GetComponent<Seeker_Life>();
     }
 
     private void Update()

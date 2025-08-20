@@ -9,7 +9,7 @@ public class BlueSlime : MonoBehaviour
     private float shootTimer = 2f;
     public float shootForce;
     public Seeker_Life seekerLife;
-    public float detectionRadius = 5.0f;
+    public float detectionRadius = 7.0f;
     public GameObject projectilePrefab; 
     public Transform firePoint; 
 
@@ -22,11 +22,6 @@ public class BlueSlime : MonoBehaviour
 
     private void Update()
     {
-        //Se resta la posicion de este objeto con la del seleccionado para que vea para ese objeto
-        Vector3 direction = Seeker.transform.position - transform.position;
-        if (direction.x < 0.0f) transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
-        else if (direction.x > 0.0f) transform.localScale = new Vector3(0.5f, 0.5f, 1.0f);
-
         shootTimer -= Time.deltaTime;
 
         if (shootTimer <= 0f)

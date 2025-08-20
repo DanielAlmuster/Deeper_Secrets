@@ -176,3 +176,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dropForce: 5
+  pickupSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}

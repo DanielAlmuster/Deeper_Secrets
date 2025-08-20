@@ -23,6 +23,8 @@ public class Seeker_Movement : MonoBehaviour
 
     public float fireCooldown = 2f;
     private float fireTimer = 0f;
+    public AudioClip reloadSound;
+    public AudioClip hurtSound;
 
     void Start()
     {
@@ -104,6 +106,9 @@ public class Seeker_Movement : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.R))
         {
+            if (arrowList.Count>0){
+                Camera.main.GetComponent<AudioSource>().PlayOneShot(reloadSound);
+            }
             ClearAllArrows();
         }
     }
@@ -237,6 +242,7 @@ public class Seeker_Movement : MonoBehaviour
         if (!Damage)
         {
             Damage = true;
+            Camera.main.GetComponent<AudioSource>().PlayOneShot(hurtSound);
             Animator.SetBool("Damage", true);
             Vector2 knockback = new Vector2(transform.position.x - direction.x, 1).normalized;
             RigidBody2D.AddForce(knockback * KnockbackForce, ForceMode2D.Impulse);

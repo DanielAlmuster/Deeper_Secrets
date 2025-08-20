@@ -3,8 +3,10 @@ using UnityEngine;
 public class BlueSlimeArrow : MonoBehaviour
 {
     public Seeker_Life seekerLife;
+    public AudioClip shootSound;
         void Start()
         {
+            Camera.main.GetComponent<AudioSource>().PlayOneShot(shootSound);
             GameObject seeker = GameObject.FindWithTag("Seeker");
             seekerLife = seeker.GetComponent<Seeker_Life>();
         }

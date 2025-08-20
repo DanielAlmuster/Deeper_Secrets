@@ -107,3 +107,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   seekerLife: {fileID: 0}
+  shootSound: {fileID: 8300000, guid: 2f352025abfe8e34a8f58d5ccda55c05, type: 3}
