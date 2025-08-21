@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour
 {
-    public GameObject fireArrowPickUp;
+    public GameObject PickUp;
     private Animator Animator;
     public AudioClip openSound;
     void Start()
@@ -20,6 +20,6 @@ public class Chest : MonoBehaviour
 
     private void ItemDrop()
     {
-        GameObject fireArrow = Instantiate(fireArrowPickUp, transform.position , Quaternion.identity);
+        GameObject pickUp = Instantiate(PickUp, transform.position , Quaternion.identity);
     }
 }

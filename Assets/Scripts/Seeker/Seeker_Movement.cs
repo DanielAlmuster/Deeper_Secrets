@@ -102,6 +102,7 @@ public class Seeker_Movement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha3) && playerPowers.IceActive == true)
         {
             playerPowers.ChangePower(3f);
+            gameManager.changePowerIce();
         }
 
         if (Input.GetKeyDown(KeyCode.R))
@@ -123,6 +124,10 @@ public class Seeker_Movement : MonoBehaviour
             if (other.gameObject.CompareTag("FirePowerUp"))
             {
                 playerPowers.ActiveFireArrows();
+            }
+            if (other.gameObject.CompareTag("IcePowerUp"))
+            {
+                playerPowers.ActiveIceArrows();
             }
             if (other.gameObject.CompareTag("Arrow")||Input.GetKeyDown(KeyCode.W))
             {

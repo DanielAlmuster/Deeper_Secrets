@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4518005774166612758
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 143010758296094811, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2006272061084190586, guid: da6569403372f6b4eaa6f40c6c393693, type: 3}
+    - target: {fileID: 143010758296094811, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 67.702354
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.705505
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320106294761232653, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399218916201428463, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_Name
+      value: IceArrowPickUp Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399218916201428463, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}
+      propertyPath: m_TagString
+      value: IcePowerUp
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0575a9425dd596d44814a992d86a0f93, type: 3}

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FireArrowPickUp : MonoBehaviour
+public class ArrowPickUp : MonoBehaviour
 {
     private Rigidbody2D rigidbody2D;
     public float dropForce = 5;

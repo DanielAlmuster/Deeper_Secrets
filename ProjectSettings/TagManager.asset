@@ -11,6 +11,7 @@ TagManager:
   - FirePowerUp
   - FireArrow
   - EnemyIceArrow
+  - IcePowerUp
   layers:
   - Default
   - TransparentFX
