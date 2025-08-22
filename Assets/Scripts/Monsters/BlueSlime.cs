@@ -11,13 +11,15 @@ public class BlueSlime : MonoBehaviour
     public Seeker_Life seekerLife;
     public float detectionRadius = 7.0f;
     public GameObject projectilePrefab; 
-    public Transform firePoint; 
+    public Transform firePoint;
 
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
+        Seeker = GameObject.FindWithTag("Seeker");
+        seekerLife = Seeker.GetComponent<Seeker_Life>();
     }
 
     private void Update()
