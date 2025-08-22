@@ -7,6 +7,7 @@ public class Seeker_Movement : MonoBehaviour
 {
     public GameObject ArrowPrefab;
     public GameObject FireArrowPrefab;
+    public GameObject IceArrowPrefab;
     private Seeker_Powers playerPowers;
     private GameManager gameManager;
     public float Speed;
@@ -207,7 +208,6 @@ public class Seeker_Movement : MonoBehaviour
 
     private void ShootIce()
     {
-
         if (arrowList.Count >= maxArrows)
         {
             GameObject oldestArrow = arrowList.Dequeue();
@@ -222,9 +222,9 @@ public class Seeker_Movement : MonoBehaviour
 
         Vector2 direction = (mouseWorldPos - transform.position).normalized;
 
-        GameObject arrow = Instantiate(ArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
+        GameObject arrow = Instantiate(IceArrowPrefab, transform.position + (Vector3)(direction * 0.8f), Quaternion.identity);
 
-        arrow.GetComponent<ArrowScript>().SetDirection(direction);
+        arrow.GetComponent<IceArrowScript>().SetDirection(direction);
 
         arrowList.Enqueue(arrow);
 

@@ -12,6 +12,7 @@ TagManager:
   - FireArrow
   - EnemyIceArrow
   - IcePowerUp
+  - WaterTile
   layers:
   - Default
   - TransparentFX
