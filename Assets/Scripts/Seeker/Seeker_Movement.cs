@@ -244,7 +244,7 @@ public class Seeker_Movement : MonoBehaviour
 
     public void gettingDamage(Vector2 direction)
     {
-        if (!Damage)
+        if (!Damage&&!Death)
         {
             Damage = true;
             Camera.main.GetComponent<AudioSource>().PlayOneShot(hurtSound);

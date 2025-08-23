@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8655039335069073466}
   m_Layer: 0
   m_Name: Bush 2_TEAL
-  m_TagString: Untagged
+  m_TagString: BurneableBush
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

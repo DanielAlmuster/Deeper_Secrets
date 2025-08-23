@@ -37,10 +37,17 @@ public class IceArrowScript : MonoBehaviour
         if (collision.CompareTag("WaterTile"))
         {
             Rigidbody2D.linearVelocity = Vector2.zero;
-            Rigidbody2D.bodyType = RigidbodyType2D.Kinematic; 
+            Rigidbody2D.bodyType = RigidbodyType2D.Kinematic;
             Rigidbody2D.freezeRotation = true;
-            Destroy(this); 
+            Destroy(this);
         }
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Ground"))
+        {
+            Destroy(gameObject);
+        }    
     }
 
 

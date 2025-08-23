@@ -26,7 +26,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2884709784740757520, guid: 05be21ec9f358034c87da02411925fbe, type: 3}
       propertyPath: m_Name
-      value: FireArrow Variant
+      value: FireArrow
       objectReference: {fileID: 0}
     - target: {fileID: 2884709784740757520, guid: 05be21ec9f358034c87da02411925fbe, type: 3}
       propertyPath: m_TagString
@@ -99,3 +99,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 4
+  Sound: {fileID: 8300000, guid: 2f352025abfe8e34a8f58d5ccda55c05, type: 3}

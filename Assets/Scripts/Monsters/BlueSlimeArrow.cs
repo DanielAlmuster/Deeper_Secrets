@@ -19,13 +19,10 @@ public class BlueSlimeArrow : MonoBehaviour
                 seekerLife.LoseLife();
                 Destroy(this.gameObject);
             }
-            if (other.gameObject.CompareTag("Ground"))
+            if (other.gameObject.CompareTag("Ground")||other.gameObject.CompareTag("BurneableBush")||other.gameObject.CompareTag("FireArrow"))
             {
                 Destroy(this.gameObject);
             }
-            if (other.gameObject.CompareTag("FireArrow"))
-            {
-                Destroy(this.gameObject);
-            }
+            
         }
 }

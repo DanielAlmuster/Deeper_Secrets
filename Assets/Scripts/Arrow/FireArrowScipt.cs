@@ -6,11 +6,13 @@ public class FireArrowScript : MonoBehaviour
     private Rigidbody2D Rigidbody2D;
     private Vector2 Direction;
     private Vector2 velocity;
+    public AudioClip Sound;
     void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Rigidbody2D.linearVelocity = Direction * Speed;
         Rigidbody2D.gravityScale = 0.2f;
+        Camera.main.GetComponent<AudioSource>().PlayOneShot(Sound);
     }
 
     void Update()
@@ -32,13 +34,9 @@ public class FireArrowScript : MonoBehaviour
     {
         if (collision.collider.CompareTag("Ground"))
         {
-            Rigidbody2D.linearVelocity = Vector2.zero;
-            Rigidbody2D.bodyType = RigidbodyType2D.Kinematic;
-            Rigidbody2D.freezeRotation = true;
             Destroy(gameObject);
-        }
-        
-}
+        }    
+    }
 
 
 }
