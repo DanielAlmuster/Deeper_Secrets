@@ -41,6 +41,10 @@ public class ArrowScript : MonoBehaviour
         Rigidbody2D.freezeRotation = true;
         Destroy(this); 
     }
+    if (collision.collider.CompareTag("EnemyIceArrow")||(collision.collider.CompareTag("EnemyFireArrow")))
+    {
+        Destroy(this.gameObject); 
+    }
 }
 
 

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &415200138333803827
+--- !u!1001 &1516241673760346045
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11,18 +11,18 @@ PrefabInstance:
     - target: {fileID: 94817660342929058, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -7667907264677841673, guid: a9968d733d245ff498cffe39eb920a11, type: 3}
+      objectReference: {fileID: 3637662636062150697, guid: 474991281ddd92f40aebffe48782f227, type: 3}
     - target: {fileID: 1942806412521973635, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1942806412521973635, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 4.01
+      value: 3.52
       objectReference: {fileID: 0}
     - target: {fileID: 1942806412521973635, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 1.72
+      value: 1.12
       objectReference: {fileID: 0}
     - target: {fileID: 2842006175981840835, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_BodyType
@@ -34,23 +34,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3089103638259135581, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_Name
-      value: EnemyIceArrow
+      value: EnemyFireArrow
       objectReference: {fileID: 0}
     - target: {fileID: 3089103638259135581, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3089103638259135581, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_TagString
-      value: EnemyIceArrow
+      value: EnemyFireArrow
       objectReference: {fileID: 0}
     - target: {fileID: 8936883948158215269, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 68.24935
+      value: 85.77102
       objectReference: {fileID: 0}
     - target: {fileID: 8936883948158215269, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.487982
+      value: 26.196266
       objectReference: {fileID: 0}
     - target: {fileID: 8936883948158215269, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -91,24 +91,24 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3089103638259135581, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: -7784177239255015478}
+      addedObject: {fileID: 4948430669976142256}
   m_SourcePrefab: {fileID: 100100000, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
---- !u!1 &3395051350232998254 stripped
+--- !u!1 &4599431552222133216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3089103638259135581, guid: ea341200a24870344b3995cbb7a3802e, type: 3}
-  m_PrefabInstance: {fileID: 415200138333803827}
+  m_PrefabInstance: {fileID: 1516241673760346045}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &-7784177239255015478
+--- !u!114 &4948430669976142256
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3395051350232998254}
+  m_GameObject: {fileID: 4599431552222133216}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1ad79b0cd9ee044591df59670f976f2, type: 3}
+  m_Script: {fileID: 11500000, guid: 75cb3c2ecf6aba749aa409a501a19f5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   seekerLife: {fileID: 0}
-  shootSound: {fileID: 8300000, guid: 2f352025abfe8e34a8f58d5ccda55c05, type: 3}
+  shootSound: {fileID: 8300000, guid: 13a57aebc6eac6f45a7592f4fd6ba72b, type: 3}
