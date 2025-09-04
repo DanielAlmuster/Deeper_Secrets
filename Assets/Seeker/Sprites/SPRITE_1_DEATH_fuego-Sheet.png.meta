@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: ed78493ebe6a3a34a8a7e0bfb050d578
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7548405880752447993
+    second: SPRITE_1_DEATH_fuego-Sheet_0
+  - first:
+      213: -1753502791362107741
+    second: SPRITE_1_DEATH_fuego-Sheet_1
+  - first:
+      213: 1248194838148572471
+    second: SPRITE_1_DEATH_fuego-Sheet_2
+  - first:
+      213: 2948337432723317212
+    second: SPRITE_1_DEATH_fuego-Sheet_3
+  - first:
+      213: 169408132124975106
+    second: SPRITE_1_DEATH_fuego-Sheet_4
+  - first:
+      213: 7542411994055135030
+    second: SPRITE_1_DEATH_fuego-Sheet_5
+  - first:
+      213: 5298240838039414155
+    second: SPRITE_1_DEATH_fuego-Sheet_6
+  - first:
+      213: 7689588200568361038
+    second: SPRITE_1_DEATH_fuego-Sheet_7
+  - first:
+      213: -8864080843899549505
+    second: SPRITE_1_DEATH_fuego-Sheet_8
+  - first:
+      213: -8253912182037994345
+    second: SPRITE_1_DEATH_fuego-Sheet_9
+  - first:
+      213: 6830134763820156687
+    second: SPRITE_1_DEATH_fuego-Sheet_10
+  - first:
+      213: 6989902515077259398
+    second: SPRITE_1_DEATH_fuego-Sheet_11
+  - first:
+      213: 2559699247516644326
+    second: SPRITE_1_DEATH_fuego-Sheet_12
+  - first:
+      213: 1753650647440664258
+    second: SPRITE_1_DEATH_fuego-Sheet_13
+  - first:
+      213: 4827968818792877990
+    second: SPRITE_1_DEATH_fuego-Sheet_14
+  - first:
+      213: -7736648892465546651
+    second: SPRITE_1_DEATH_fuego-Sheet_15
+  - first:
+      213: 7605412664276948756
+    second: SPRITE_1_DEATH_fuego-Sheet_16
+  - first:
+      213: -8729273101878946504
+    second: SPRITE_1_DEATH_fuego-Sheet_17
+  - first:
+      213: 3906165848831992420
+    second: SPRITE_1_DEATH_fuego-Sheet_18
+  - first:
+      213: 7117223494428601967
+    second: SPRITE_1_DEATH_fuego-Sheet_19
+  - first:
+      213: -3374630686529178710
+    second: SPRITE_1_DEATH_fuego-Sheet_20
+  - first:
+      213: -3466144915649757424
+    second: SPRITE_1_DEATH_fuego-Sheet_21
+  - first:
+      213: 1019299946568080016
+    second: SPRITE_1_DEATH_fuego-Sheet_22
+  - first:
+      213: 6385352410815286445
+    second: SPRITE_1_DEATH_fuego-Sheet_23
+  - first:
+      213: -1943293990277895801
+    second: SPRITE_1_DEATH_fuego-Sheet_24
+  - first:
+      213: 2376999606273403196
+    second: SPRITE_1_DEATH_fuego-Sheet_25
+  - first:
+      213: -7409017006403112896
+    second: SPRITE_1_DEATH_fuego-Sheet_26
+  - first:
+      213: -8297624019552264813
+    second: SPRITE_1_DEATH_fuego-Sheet_27
+  - first:
+      213: -7201871648629935527
+    second: SPRITE_1_DEATH_fuego-Sheet_28
+  - first:
+      213: -3086923959998514518
+    second: SPRITE_1_DEATH_fuego-Sheet_29
+  - first:
+      213: -8584543173301083209
+    second: SPRITE_1_DEATH_fuego-Sheet_30
+  - first:
+      213: 5704200444471530023
+    second: SPRITE_1_DEATH_fuego-Sheet_31
+  - first:
+      213: -8358588818960875448
+    second: SPRITE_1_DEATH_fuego-Sheet_32
+  - first:
+      213: -1314964129519456081
+    second: SPRITE_1_DEATH_fuego-Sheet_33
+  - first:
+      213: -7926235047667895594
+    second: SPRITE_1_DEATH_fuego-Sheet_34
+  - first:
+      213: 2823804965796463513
+    second: SPRITE_1_DEATH_fuego-Sheet_35
+  - first:
+      213: 7608246335268173071
+    second: SPRITE_1_DEATH_fuego-Sheet_36
+  - first:
+      213: -7737390189869961267
+    second: SPRITE_1_DEATH_fuego-Sheet_37
+  - first:
+      213: -4291578705575441857
+    second: SPRITE_1_DEATH_fuego-Sheet_38
+  - first:
+      213: -8592469160489797287
+    second: SPRITE_1_DEATH_fuego-Sheet_39
+  - first:
+      213: 1736175261624129423
+    second: SPRITE_1_DEATH_fuego-Sheet_40
+  - first:
+      213: -3979000694987406709
+    second: SPRITE_1_DEATH_fuego-Sheet_41
+  - first:
+      213: -8743531727252000519
+    second: SPRITE_1_DEATH_fuego-Sheet_42
+  - first:
+      213: 2568044336934345763
+    second: SPRITE_1_DEATH_fuego-Sheet_43
+  - first:
+      213: -4138796210781513073
+    second: SPRITE_1_DEATH_fuego-Sheet_44
+  - first:
+      213: 1312021850378807297
+    second: SPRITE_1_DEATH_fuego-Sheet_45
+  - first:
+      213: 3799565271572827727
+    second: SPRITE_1_DEATH_fuego-Sheet_46
+  - first:
+      213: 9128960087656701187
+    second: SPRITE_1_DEATH_fuego-Sheet_47
+  - first:
+      213: -5412494034956595596
+    second: SPRITE_1_DEATH_fuego-Sheet_48
+  - first:
+      213: -2800071305506945692
+    second: SPRITE_1_DEATH_fuego-Sheet_49
+  - first:
+      213: -4396259078802740627
+    second: SPRITE_1_DEATH_fuego-Sheet_50
+  - first:
+      213: 3759270636468816815
+    second: SPRITE_1_DEATH_fuego-Sheet_51
+  - first:
+      213: -4215519937382369943
+    second: SPRITE_1_DEATH_fuego-Sheet_52
+  - first:
+      213: -7771907869191912852
+    second: SPRITE_1_DEATH_fuego-Sheet_53
+  - first:
+      213: -776787134075993425
+    second: SPRITE_1_DEATH_fuego-Sheet_54
+  - first:
+      213: -3961493219033470049
+    second: SPRITE_1_DEATH_fuego-Sheet_55
+  - first:
+      213: -31817884930644019
+    second: SPRITE_1_DEATH_fuego-Sheet_56
+  - first:
+      213: -3615965931973291321
+    second: SPRITE_1_DEATH_fuego-Sheet_57
+  - first:
+      213: 1848127719572187878
+    second: SPRITE_1_DEATH_fuego-Sheet_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 39
+        width: 402
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed74938dcae3790800000000000000
+      internalID: -7548405880752447993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 39
+        width: 392
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a430708e4aa7e0800000000000000
+      internalID: -1753502791362107741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356252979a725110800000000000000
+      internalID: 1248194838148572471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e57b26499ae820800000000000000
+      internalID: 2948337432723317212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002f517ccbd95200800000000000000
+      internalID: 169408132124975106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f4d474fb70ca860800000000000000
+      internalID: 7542411994055135030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85aecd88f1278940800000000000000
+      internalID: 5298240838039414155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4099eb2ab7e6ba60800000000000000
+      internalID: 7689588200568361038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 39
+        width: 412
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c507bf657cf480800000000000000
+      internalID: -8864080843899549505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 39
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942b5ef996347d80800000000000000
+      internalID: -8253912182037994345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 29
+        width: 392
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f070c8d416389ce50800000000000000
+      internalID: 6830134763820156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 19
+        width: 392
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6802ac9ad4f110160800000000000000
+      internalID: 6989902515077259398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7939
+        y: 9
+        width: 392
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3701c57e0e58320800000000000000
+      internalID: 2559699247516644326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 8589
+        y: 9
+        width: 432
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a5dcf8f7365810800000000000000
+      internalID: 1753650647440664258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 9239
+        y: 9
+        width: 432
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcfce9f04600340800000000000000
+      internalID: 4827968818792877990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9889
+        y: 19
+        width: 392
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56afba4a2d6e1a490800000000000000
+      internalID: -7736648892465546651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 10539
+        y: 19
+        width: 392
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171c70e58adb8960800000000000000
+      internalID: 7605412664276948756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 14539
+        y: 259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835122f0d546bd680800000000000000
+      internalID: -8729273101878946504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 14429
+        y: 0
+        width: 702
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a46dc42d753630800000000000000
+      internalID: 3906165848831992420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 14619
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2b7c3f0575c260800000000000000
+      internalID: 7117223494428601967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 11139
+        y: 0
+        width: 482
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3bb492547ea21d0800000000000000
+      internalID: -3374630686529178710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 11829
+        y: 0
+        width: 442
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7baa4097c5efc0800000000000000
+      internalID: -3466144915649757424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12439
+        y: 0
+        width: 482
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad3c2a6e7452e00800000000000000
+      internalID: 1019299946568080016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 12869
+        y: 179
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac4454cf245d9850800000000000000
+      internalID: 6385352410815286445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 13129
+        y: 0
+        width: 442
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a55f69680805e0800000000000000
+      internalID: -1943293990277895801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 13779
+        y: 0
+        width: 512
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c396b2b4c8cccf020800000000000000
+      internalID: 2376999606273403196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 15079
+        y: 0
+        width: 702
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b38e8942ed2990800000000000000
+      internalID: -7409017006403112896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 15729
+        y: 0
+        width: 702
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d96dabaeae8dc80800000000000000
+      internalID: -8297624019552264813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 16379
+        y: 0
+        width: 702
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b47984efcd0c90800000000000000
+      internalID: -7201871648629935527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 17029
+        y: 0
+        width: 702
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa75ab730b0925d0800000000000000
+      internalID: -3086923959998514518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 17679
+        y: 0
+        width: 521
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3626c77739dd880800000000000000
+      internalID: -8584543173301083209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 29
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d9540514692f40800000000000000
+      internalID: 5704200444471530023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 11769
+        y: 99
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840094e31c3500c80800000000000000
+      internalID: -8358588818960875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 12399
+        y: 119
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0bc97571f40cde0800000000000000
+      internalID: -1314964129519456081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 13049
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f089183b500290800000000000000
+      internalID: -7926235047667895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 13589
+        y: 79
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993484db7ab203720800000000000000
+      internalID: 2823804965796463513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 29
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05b3515bbbe59960800000000000000
+      internalID: 7608246335268173071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 29
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf6534ed944f9490800000000000000
+      internalID: -7737390189869961267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 29
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8b80b7ef3174c0800000000000000
+      internalID: -4291578705575441857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 7609
+        y: 29
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b189c2da61c880800000000000000
+      internalID: -8592469160489797287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 29
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875de8a332281810800000000000000
+      internalID: 1736175261624129423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 8259
+        y: 29
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b824e3613ffb7c8c0800000000000000
+      internalID: -3979000694987406709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 8539
+        y: 29
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f079c2283cb8a680800000000000000
+      internalID: -8743531727252000519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 9189
+        y: 29
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cdc66e7b683a320800000000000000
+      internalID: 2568044336934345763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 10209
+        y: 29
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a92aa46ca0096c0800000000000000
+      internalID: -4138796210781513073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 10859
+        y: 29
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1082169ebec353210800000000000000
+      internalID: 1312021850378807297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 12889
+        y: 49
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e4209cb74cab430800000000000000
+      internalID: 3799565271572827727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 13659
+        y: 49
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1f7915d490be70800000000000000
+      internalID: 9128960087656701187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 13759
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ecd711a55f2e4b0800000000000000
+      internalID: -5412494034956595596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 9
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658e79abf52429d0800000000000000
+      internalID: -2800071305506945692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 10489
+        y: 9
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a606309a95df2c0800000000000000
+      internalID: -4396259078802740627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 11789
+        y: 0
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc745f9bc9b2430800000000000000
+      internalID: 3759270636468816815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12409
+        y: 29
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9653fb4a3f67f75c0800000000000000
+      internalID: -4215519937382369943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 13029
+        y: 19
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c0c568f2a42490800000000000000
+      internalID: -7771907869191912852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 13089
+        y: 9
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa28e47973c4835f0800000000000000
+      internalID: -776787134075993425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 13589
+        y: 19
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b246bf7e2f509c0800000000000000
+      internalID: -3961493219033470049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 13669
+        y: 9
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7643f5dc5fe8ff0800000000000000
+      internalID: -31817884930644019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 13739
+        y: 9
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c251d0a42281ddc0800000000000000
+      internalID: -3615965931973291321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_fuego-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 14309
+        y: 0
+        width: 172
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea27a08e5ed5a910800000000000000
+      internalID: 1848127719572187878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPRITE_1_DEATH_fuego-Sheet_0: -7548405880752447993
+      SPRITE_1_DEATH_fuego-Sheet_1: -1753502791362107741
+      SPRITE_1_DEATH_fuego-Sheet_10: 6830134763820156687
+      SPRITE_1_DEATH_fuego-Sheet_11: 6989902515077259398
+      SPRITE_1_DEATH_fuego-Sheet_12: 2559699247516644326
+      SPRITE_1_DEATH_fuego-Sheet_13: 1753650647440664258
+      SPRITE_1_DEATH_fuego-Sheet_14: 4827968818792877990
+      SPRITE_1_DEATH_fuego-Sheet_15: -7736648892465546651
+      SPRITE_1_DEATH_fuego-Sheet_16: 7605412664276948756
+      SPRITE_1_DEATH_fuego-Sheet_17: -8729273101878946504
+      SPRITE_1_DEATH_fuego-Sheet_18: 3906165848831992420
+      SPRITE_1_DEATH_fuego-Sheet_19: 7117223494428601967
+      SPRITE_1_DEATH_fuego-Sheet_2: 1248194838148572471
+      SPRITE_1_DEATH_fuego-Sheet_20: -3374630686529178710
+      SPRITE_1_DEATH_fuego-Sheet_21: -3466144915649757424
+      SPRITE_1_DEATH_fuego-Sheet_22: 1019299946568080016
+      SPRITE_1_DEATH_fuego-Sheet_23: 6385352410815286445
+      SPRITE_1_DEATH_fuego-Sheet_24: -1943293990277895801
+      SPRITE_1_DEATH_fuego-Sheet_25: 2376999606273403196
+      SPRITE_1_DEATH_fuego-Sheet_26: -7409017006403112896
+      SPRITE_1_DEATH_fuego-Sheet_27: -8297624019552264813
+      SPRITE_1_DEATH_fuego-Sheet_28: -7201871648629935527
+      SPRITE_1_DEATH_fuego-Sheet_29: -3086923959998514518
+      SPRITE_1_DEATH_fuego-Sheet_3: 2948337432723317212
+      SPRITE_1_DEATH_fuego-Sheet_30: -8584543173301083209
+      SPRITE_1_DEATH_fuego-Sheet_31: 5704200444471530023
+      SPRITE_1_DEATH_fuego-Sheet_32: -8358588818960875448
+      SPRITE_1_DEATH_fuego-Sheet_33: -1314964129519456081
+      SPRITE_1_DEATH_fuego-Sheet_34: -7926235047667895594
+      SPRITE_1_DEATH_fuego-Sheet_35: 2823804965796463513
+      SPRITE_1_DEATH_fuego-Sheet_36: 7608246335268173071
+      SPRITE_1_DEATH_fuego-Sheet_37: -7737390189869961267
+      SPRITE_1_DEATH_fuego-Sheet_38: -4291578705575441857
+      SPRITE_1_DEATH_fuego-Sheet_39: -8592469160489797287
+      SPRITE_1_DEATH_fuego-Sheet_4: 169408132124975106
+      SPRITE_1_DEATH_fuego-Sheet_40: 1736175261624129423
+      SPRITE_1_DEATH_fuego-Sheet_41: -3979000694987406709
+      SPRITE_1_DEATH_fuego-Sheet_42: -8743531727252000519
+      SPRITE_1_DEATH_fuego-Sheet_43: 2568044336934345763
+      SPRITE_1_DEATH_fuego-Sheet_44: -4138796210781513073
+      SPRITE_1_DEATH_fuego-Sheet_45: 1312021850378807297
+      SPRITE_1_DEATH_fuego-Sheet_46: 3799565271572827727
+      SPRITE_1_DEATH_fuego-Sheet_47: 9128960087656701187
+      SPRITE_1_DEATH_fuego-Sheet_48: -5412494034956595596
+      SPRITE_1_DEATH_fuego-Sheet_49: -2800071305506945692
+      SPRITE_1_DEATH_fuego-Sheet_5: 7542411994055135030
+      SPRITE_1_DEATH_fuego-Sheet_50: -4396259078802740627
+      SPRITE_1_DEATH_fuego-Sheet_51: 3759270636468816815
+      SPRITE_1_DEATH_fuego-Sheet_52: -4215519937382369943
+      SPRITE_1_DEATH_fuego-Sheet_53: -7771907869191912852
+      SPRITE_1_DEATH_fuego-Sheet_54: -776787134075993425
+      SPRITE_1_DEATH_fuego-Sheet_55: -3961493219033470049
+      SPRITE_1_DEATH_fuego-Sheet_56: -31817884930644019
+      SPRITE_1_DEATH_fuego-Sheet_57: -3615965931973291321
+      SPRITE_1_DEATH_fuego-Sheet_58: 1848127719572187878
+      SPRITE_1_DEATH_fuego-Sheet_6: 5298240838039414155
+      SPRITE_1_DEATH_fuego-Sheet_7: 7689588200568361038
+      SPRITE_1_DEATH_fuego-Sheet_8: -8864080843899549505
+      SPRITE_1_DEATH_fuego-Sheet_9: -8253912182037994345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

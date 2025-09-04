@@ -18,6 +18,7 @@ public class Seeker_Movement : MonoBehaviour
     public bool Death = false;
     private Rigidbody2D RigidBody2D;
     private Animator Animator;
+    public RuntimeAnimatorController[] animationVariants;
     private float Horizontal;
     private Queue<GameObject> arrowList = new Queue<GameObject>();
     private int maxArrows = 3;
@@ -92,12 +93,14 @@ public class Seeker_Movement : MonoBehaviour
         {
             playerPowers.ChangePower(1f);
             gameManager.changePowerNormal();
+            Animator.runtimeAnimatorController = animationVariants[0];
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha2) && playerPowers.FireActive == true)
         {
             playerPowers.ChangePower(2f);
             gameManager.changePowerFire();
+            Animator.runtimeAnimatorController = animationVariants[1];
         }
 
         if (Input.GetKeyDown(KeyCode.Alpha3) && playerPowers.IceActive == true)

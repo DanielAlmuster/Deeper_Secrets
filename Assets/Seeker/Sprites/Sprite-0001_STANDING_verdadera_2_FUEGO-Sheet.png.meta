@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 8ca237923a747c749a11fc214f0aa9ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1614372709251099290
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_0
+  - first:
+      213: 5946836394094554707
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_1
+  - first:
+      213: 9042932772504717471
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_2
+  - first:
+      213: -7157791087645917245
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_3
+  - first:
+      213: 956501303749603343
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_4
+  - first:
+      213: -1239296760168038727
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_5
+  - first:
+      213: -8121898627252139025
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_6
+  - first:
+      213: 7670149160195940668
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_7
+  - first:
+      213: 1853184926503762891
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_8
+  - first:
+      213: -1469116822693097604
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_9
+  - first:
+      213: 4161934762009938366
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_10
+  - first:
+      213: 6525787305587843839
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_11
+  - first:
+      213: 1246276531007789672
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_12
+  - first:
+      213: -6392328321895584461
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_13
+  - first:
+      213: 811542106583786683
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_14
+  - first:
+      213: 3328033801831433456
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_15
+  - first:
+      213: -541920811113724774
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_16
+  - first:
+      213: 5345743554589573203
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_17
+  - first:
+      213: -5378941480525510188
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_18
+  - first:
+      213: 2186737350843625401
+    second: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d00203989899e0800000000000000
+      internalID: -1614372709251099290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 19
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eee575138678250800000000000000
+      internalID: 5946836394094554707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 19
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c1e0f173fe7d70800000000000000
+      internalID: 9042932772504717471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 19
+        width: 432
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf786cedea6aac90800000000000000
+      internalID: -7157791087645917245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 19
+        width: 422
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0071353edc264d00800000000000000
+      internalID: 956501303749603343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 19
+        width: 412
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be34e6a9222dcee0800000000000000
+      internalID: -1239296760168038727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 19
+        width: 422
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb47ecea38394f80800000000000000
+      internalID: -8121898627252139025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 19
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c316db3e508d17a60800000000000000
+      internalID: 7670149160195940668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb7d5f3fd5d7b910800000000000000
+      internalID: 1853184926503762891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc3d19806ac9be0800000000000000
+      internalID: -1469116822693097604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9c3fb7d9922c930800000000000000
+      internalID: 4161934762009938366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22155baf0409a50800000000000000
+      internalID: 6525787305587843839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5789
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a10a2e6e9ab4110800000000000000
+      internalID: 1246276531007789672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6269
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33daebd5243e947a0800000000000000
+      internalID: -6392328321895584461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e2370f3d234b00800000000000000
+      internalID: 811542106583786683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4c7ae2c1d8f2e20800000000000000
+      internalID: 3328033801831433456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7709
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94cc2db4e5ba78f0800000000000000
+      internalID: -541920811113724774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8189
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35045af9075ef2a40800000000000000
+      internalID: 5345743554589573203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9c9a9e8392a55b0800000000000000
+      internalID: -5378941480525510188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 9149
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfec16e80ad85e10800000000000000
+      internalID: 2186737350843625401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_0: -1614372709251099290
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_1: 5946836394094554707
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_10: 4161934762009938366
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_11: 6525787305587843839
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_12: 1246276531007789672
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_13: -6392328321895584461
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_14: 811542106583786683
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_15: 3328033801831433456
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_16: -541920811113724774
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_17: 5345743554589573203
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_18: -5378941480525510188
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_19: 2186737350843625401
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_2: 9042932772504717471
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_3: -7157791087645917245
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_4: 956501303749603343
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_5: -1239296760168038727
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_6: -8121898627252139025
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_7: 7670149160195940668
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_8: 1853184926503762891
+      Sprite-0001_STANDING_verdadera_2_FUEGO-Sheet_9: -1469116822693097604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

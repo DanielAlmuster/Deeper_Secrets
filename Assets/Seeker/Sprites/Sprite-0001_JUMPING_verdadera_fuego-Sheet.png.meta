@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c7ff2850977bca045a86937419c26d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2776671479530438344
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_0
+  - first:
+      213: 6756722624888488425
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_1
+  - first:
+      213: -3225699025460246556
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_2
+  - first:
+      213: -8552568759890071719
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_3
+  - first:
+      213: 2696463537074057442
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_4
+  - first:
+      213: -1843726389643394484
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_5
+  - first:
+      213: -3427621575451856545
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_6
+  - first:
+      213: 8733916704527543814
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_7
+  - first:
+      213: 273452913146647887
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_8
+  - first:
+      213: -3143384512891970955
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_9
+  - first:
+      213: -6573691511303994113
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_10
+  - first:
+      213: 1201438293613274809
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_11
+  - first:
+      213: -892177906031480785
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_12
+  - first:
+      213: -4334307218978884016
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_13
+  - first:
+      213: 3311090793879666805
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_14
+  - first:
+      213: 4064766113739161059
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_15
+  - first:
+      213: 5113518229283990177
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_16
+  - first:
+      213: -8322946398755181449
+    second: Sprite-0001_JUMPING_verdadera_fuego-Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 29
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83141a430084779d0800000000000000
+      internalID: -2776671479530438344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c25ebd63b4cd50800000000000000
+      internalID: 6756722624888488425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 39
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74e1ba3d30c33d0800000000000000
+      internalID: -3225699025460246556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 69
+        width: 412
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f26adb60c2f4980800000000000000
+      internalID: -8552568759890071719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 89
+        width: 402
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b71dec43cb6520800000000000000
+      internalID: 2696463537074057442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 109
+        width: 412
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42ca4afd94c966e0800000000000000
+      internalID: -1843726389643394484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 149
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513ab26654ae60d0800000000000000
+      internalID: -3427621575451856545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 149
+        width: 402
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ee63fe7fa153970800000000000000
+      internalID: 8733916704527543814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 169
+        width: 412
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d6e6c9ff7bc300800000000000000
+      internalID: 273452913146647887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 159
+        width: 392
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a1c9c90747064d0800000000000000
+      internalID: -3143384512891970955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 149
+        width: 412
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff489bd366e85c4a0800000000000000
+      internalID: -6573691511303994113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 149
+        width: 402
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6ee5633cd5ca010800000000000000
+      internalID: 1201438293613274809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6669
+        y: 149
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20ba82ebe85e93f0800000000000000
+      internalID: -892177906031480785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7219
+        y: 109
+        width: 412
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0563a596c8279d3c0800000000000000
+      internalID: -4334307218978884016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 89
+        width: 402
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570834cb88b53fd20800000000000000
+      internalID: 3311090793879666805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 8319
+        y: 69
+        width: 412
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb7709e33f86830800000000000000
+      internalID: 4064766113739161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 39
+        width: 422
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae4f8acbdd6f640800000000000000
+      internalID: 5113518229283990177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_JUMPING_verdadera_fuego-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9409
+        y: 19
+        width: 422
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca491e854fe7c80800000000000000
+      internalID: -8322946398755181449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_0: -2776671479530438344
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_1: 6756722624888488425
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_10: -6573691511303994113
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_11: 1201438293613274809
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_12: -892177906031480785
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_13: -4334307218978884016
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_14: 3311090793879666805
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_15: 4064766113739161059
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_16: 5113518229283990177
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_17: -8322946398755181449
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_2: -3225699025460246556
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_3: -8552568759890071719
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_4: 2696463537074057442
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_5: -1843726389643394484
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_6: -3427621575451856545
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_7: 8733916704527543814
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_8: 273452913146647887
+      Sprite-0001_JUMPING_verdadera_fuego-Sheet_9: -3143384512891970955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
