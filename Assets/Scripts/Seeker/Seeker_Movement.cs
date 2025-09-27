@@ -10,6 +10,7 @@ public class Seeker_Movement : MonoBehaviour
     public GameObject IceArrowPrefab;
     private Seeker_Powers playerPowers;
     private GameManager gameManager;
+    private PauseMenu pauseController;
     public float Speed;
     public float JumpForce;
     public float KnockbackForce;
@@ -37,6 +38,7 @@ public class Seeker_Movement : MonoBehaviour
         RigidBody2D.freezeRotation = true;
 
         playerPowers = GetComponent<Seeker_Powers>();
+        pauseController = FindObjectOfType<PauseMenu>();
     }
 
     void Update()
@@ -47,7 +49,7 @@ public class Seeker_Movement : MonoBehaviour
             RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionY;  
             RigidBody2D.freezeRotation = true;
         }
-        if(Death==false)
+        if(Death==false&&pauseController.isPaused==false)
         {
         if (fireTimer > 0)
         fireTimer -= Time.deltaTime;
@@ -115,6 +117,10 @@ public class Seeker_Movement : MonoBehaviour
                 Camera.main.GetComponent<AudioSource>().PlayOneShot(reloadSound);
             }
             ClearAllArrows();
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+                pauseController.Pause();
         }
     }
 }
