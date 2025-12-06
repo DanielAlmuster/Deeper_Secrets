@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2500557569069251824}
   - component: {fileID: 2248750253520810672}
   - component: {fileID: -936604018472531222}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: IceArrow
   m_TagString: IceArrow
   m_Icon: {fileID: 0}

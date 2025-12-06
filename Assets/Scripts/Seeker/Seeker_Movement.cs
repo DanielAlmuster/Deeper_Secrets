@@ -10,7 +10,7 @@ public class Seeker_Movement : MonoBehaviour
     public GameObject IceArrowPrefab;
     private Seeker_Powers playerPowers;
     private GameManager gameManager;
-    private PauseMenu pauseController;
+    private MenuController pauseController;
     public float Speed;
     public float JumpForce;
     public float KnockbackForce;
@@ -28,7 +28,8 @@ public class Seeker_Movement : MonoBehaviour
     private float fireTimer = 0f;
     public AudioClip reloadSound;
     public AudioClip hurtSound;
-
+    public Vector2 respawnPoint;
+    
     void Start()
     {
         RigidBody2D = GetComponent<Rigidbody2D>();
@@ -38,7 +39,9 @@ public class Seeker_Movement : MonoBehaviour
         RigidBody2D.freezeRotation = true;
 
         playerPowers = GetComponent<Seeker_Powers>();
-        pauseController = FindObjectOfType<PauseMenu>();
+        pauseController = FindObjectOfType<MenuController>();
+
+        respawnPoint = transform.position;
     }
 
     void Update()
@@ -46,8 +49,9 @@ public class Seeker_Movement : MonoBehaviour
         if (Death)
         {
             RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionX;
-            RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionY;  
+            RigidBody2D.constraints = RigidbodyConstraints2D.FreezePositionY;
             RigidBody2D.freezeRotation = true;
+            RigidBody2D.constraints = RigidbodyConstraints2D.FreezeAll;
         }
         if(Death==false&&pauseController.isPaused==false)
         {
@@ -109,6 +113,7 @@ public class Seeker_Movement : MonoBehaviour
         {
             playerPowers.ChangePower(3f);
             gameManager.changePowerIce();
+            Animator.runtimeAnimatorController = animationVariants[2];
         }
 
         if (Input.GetKeyDown(KeyCode.R))
@@ -158,7 +163,7 @@ public class Seeker_Movement : MonoBehaviour
     
     public void LoseGame()
     {
-        SceneManager.LoadScene(0);
+        pauseController.Lose();
     }
 
     private void Shoot()

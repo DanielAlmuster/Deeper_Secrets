@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e285ec29ccd72df4da189b022548635b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5340058011484889392
+    second: SPRITE_1_DEATH_HIELOO-Sheet_0
+  - first:
+      213: -3514033707864681311
+    second: SPRITE_1_DEATH_HIELOO-Sheet_1
+  - first:
+      213: -8066517792290082024
+    second: SPRITE_1_DEATH_HIELOO-Sheet_2
+  - first:
+      213: 4115216923176635359
+    second: SPRITE_1_DEATH_HIELOO-Sheet_3
+  - first:
+      213: -8209310628630040313
+    second: SPRITE_1_DEATH_HIELOO-Sheet_4
+  - first:
+      213: 7857492297371927900
+    second: SPRITE_1_DEATH_HIELOO-Sheet_5
+  - first:
+      213: -2957281096849384805
+    second: SPRITE_1_DEATH_HIELOO-Sheet_6
+  - first:
+      213: -8740479293816487620
+    second: SPRITE_1_DEATH_HIELOO-Sheet_7
+  - first:
+      213: 4836507832421932366
+    second: SPRITE_1_DEATH_HIELOO-Sheet_8
+  - first:
+      213: -8410381883695828826
+    second: SPRITE_1_DEATH_HIELOO-Sheet_9
+  - first:
+      213: 8403429434633498178
+    second: SPRITE_1_DEATH_HIELOO-Sheet_10
+  - first:
+      213: 1800880173537995829
+    second: SPRITE_1_DEATH_HIELOO-Sheet_11
+  - first:
+      213: 4682576128022249192
+    second: SPRITE_1_DEATH_HIELOO-Sheet_12
+  - first:
+      213: -7057974429581964306
+    second: SPRITE_1_DEATH_HIELOO-Sheet_13
+  - first:
+      213: 4326048308100754088
+    second: SPRITE_1_DEATH_HIELOO-Sheet_14
+  - first:
+      213: -6461647091741032913
+    second: SPRITE_1_DEATH_HIELOO-Sheet_15
+  - first:
+      213: -9110548003408787245
+    second: SPRITE_1_DEATH_HIELOO-Sheet_16
+  - first:
+      213: -2609318352254998092
+    second: SPRITE_1_DEATH_HIELOO-Sheet_17
+  - first:
+      213: -8900018234954572227
+    second: SPRITE_1_DEATH_HIELOO-Sheet_18
+  - first:
+      213: 9132451646675809093
+    second: SPRITE_1_DEATH_HIELOO-Sheet_19
+  - first:
+      213: 2297488615956050362
+    second: SPRITE_1_DEATH_HIELOO-Sheet_20
+  - first:
+      213: 6985167266583928014
+    second: SPRITE_1_DEATH_HIELOO-Sheet_21
+  - first:
+      213: -6126644148702842607
+    second: SPRITE_1_DEATH_HIELOO-Sheet_22
+  - first:
+      213: -2961632194243963605
+    second: SPRITE_1_DEATH_HIELOO-Sheet_23
+  - first:
+      213: 4790424530623844916
+    second: SPRITE_1_DEATH_HIELOO-Sheet_24
+  - first:
+      213: -1131915582014001776
+    second: SPRITE_1_DEATH_HIELOO-Sheet_25
+  - first:
+      213: 254384676393488905
+    second: SPRITE_1_DEATH_HIELOO-Sheet_26
+  - first:
+      213: -906361890684721176
+    second: SPRITE_1_DEATH_HIELOO-Sheet_27
+  - first:
+      213: -2525085817910455130
+    second: SPRITE_1_DEATH_HIELOO-Sheet_28
+  - first:
+      213: -4809816893373172243
+    second: SPRITE_1_DEATH_HIELOO-Sheet_29
+  - first:
+      213: 1445521087728463165
+    second: SPRITE_1_DEATH_HIELOO-Sheet_30
+  - first:
+      213: -3710411401616639560
+    second: SPRITE_1_DEATH_HIELOO-Sheet_31
+  - first:
+      213: 9081674594520746941
+    second: SPRITE_1_DEATH_HIELOO-Sheet_32
+  - first:
+      213: -4175439344318752023
+    second: SPRITE_1_DEATH_HIELOO-Sheet_33
+  - first:
+      213: -9041952379508642490
+    second: SPRITE_1_DEATH_HIELOO-Sheet_34
+  - first:
+      213: -6193185337523023447
+    second: SPRITE_1_DEATH_HIELOO-Sheet_35
+  - first:
+      213: -7722743694987168325
+    second: SPRITE_1_DEATH_HIELOO-Sheet_36
+  - first:
+      213: 878845475934908046
+    second: SPRITE_1_DEATH_HIELOO-Sheet_37
+  - first:
+      213: 3480933743066029511
+    second: SPRITE_1_DEATH_HIELOO-Sheet_38
+  - first:
+      213: 5567602996953994072
+    second: SPRITE_1_DEATH_HIELOO-Sheet_39
+  - first:
+      213: -2482144536407368732
+    second: SPRITE_1_DEATH_HIELOO-Sheet_40
+  - first:
+      213: -3235056440374305144
+    second: SPRITE_1_DEATH_HIELOO-Sheet_41
+  - first:
+      213: 111852957565844514
+    second: SPRITE_1_DEATH_HIELOO-Sheet_42
+  - first:
+      213: 1161481857807760295
+    second: SPRITE_1_DEATH_HIELOO-Sheet_43
+  - first:
+      213: 8997680110774976492
+    second: SPRITE_1_DEATH_HIELOO-Sheet_44
+  - first:
+      213: -5853843721288701153
+    second: SPRITE_1_DEATH_HIELOO-Sheet_45
+  - first:
+      213: 3232970744727952761
+    second: SPRITE_1_DEATH_HIELOO-Sheet_46
+  - first:
+      213: 5179857908341916487
+    second: SPRITE_1_DEATH_HIELOO-Sheet_47
+  - first:
+      213: 6347284416703096105
+    second: SPRITE_1_DEATH_HIELOO-Sheet_48
+  - first:
+      213: 2779647896078491318
+    second: SPRITE_1_DEATH_HIELOO-Sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0312986f772bb1a40800000000000000
+      internalID: 5340058011484889392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a41af9f5f4ab3fc0800000000000000
+      internalID: -3514033707864681311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8137e206ec8fd0090800000000000000
+      internalID: -8066517792290082024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8e9ffcff2c1930800000000000000
+      internalID: 4115216923176635359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701faa16a7ba21e80800000000000000
+      internalID: -8209310628630040313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c83a1d9b6b0d60800000000000000
+      internalID: 7857492297371927900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9051c280a5f6d0800000000000000
+      internalID: -2957281096849384805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31496d246493b680800000000000000
+      internalID: -8740479293816487620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d57e8af3abe1340800000000000000
+      internalID: 4836507832421932366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fde4ac32584b80800000000000000
+      internalID: -8410381883695828826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e246a2c8afe9470800000000000000
+      internalID: 8403429434633498178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca6c2f9f20ef810800000000000000
+      internalID: 1800880173537995829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee7d78dd2adbf040800000000000000
+      internalID: 4682576128022249192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb0afaa6a90d0e90800000000000000
+      internalID: -7057974429581964306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa668d0406390c30800000000000000
+      internalID: 4326048308100754088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef6d0943e9356a0800000000000000
+      internalID: -6461647091741032913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8cca35cd4d09180800000000000000
+      internalID: -9110548003408787245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9eeeb88c6d9cbd0800000000000000
+      internalID: -2609318352254998092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9803d198cc7480800000000000000
+      internalID: -8900018234954572227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543fa88036cfcbe70800000000000000
+      internalID: 9132451646675809093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1709d39b152ef10800000000000000
+      internalID: 2297488615956050362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 17
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccdb65be9c40f060800000000000000
+      internalID: 6985167266583928014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111775b6b99c9faa0800000000000000
+      internalID: -6126644148702842607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b255ab2f53b26e6d0800000000000000
+      internalID: -2961632194243963605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 0
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432d627dab10b7240800000000000000
+      internalID: 4790424530623844916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d635a76c0aa40f0800000000000000
+      internalID: -1131915582014001776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 0
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029cb0f381c78300800000000000000
+      internalID: 254384676393488905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e729cb99a4fb63f0800000000000000
+      internalID: -906361890684721176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 0
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4121cb3d715fcd0800000000000000
+      internalID: -2525085817910455130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 0
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5b1dbd409104db0800000000000000
+      internalID: -4809816893373172243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d246545c58f0410800000000000000
+      internalID: 1445521087728463165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b4142d78f18cc0800000000000000
+      internalID: -3710411401616639560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb491c4de6980e70800000000000000
+      internalID: 9081674594520746941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ead0bce90cdd06c0800000000000000
+      internalID: -4175439344318752023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da3679738848280800000000000000
+      internalID: -9041952379508642490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a158c89fb26d0aa0800000000000000
+      internalID: -6193185337523023447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f6e8b68d43d490800000000000000
+      internalID: -7722743694987168325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e2f85dd49423c00800000000000000
+      internalID: 878845475934908046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd1f1aebc2ce4030800000000000000
+      internalID: 3480933743066029511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d7d36d69144d40800000000000000
+      internalID: 5567602996953994072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1342f1b6ad8dd0800000000000000
+      internalID: -2482144536407368732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e562bbe45ca13d0800000000000000
+      internalID: -3235056440374305144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf9ca1ca16d8100800000000000000
+      internalID: 111852957565844514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab31bb88996e1010800000000000000
+      internalID: 1161481857807760295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff655936e2edc70800000000000000
+      internalID: 8997680110774976492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bafe58628f2cea0800000000000000
+      internalID: -5853843721288701153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5db863c1dddc20800000000000000
+      internalID: 3232970744727952761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743c7b5d25d82e740800000000000000
+      internalID: 5179857908341916487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e5f13c85161850800000000000000
+      internalID: 6347284416703096105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE_1_DEATH_HIELOO-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be9b66c80b439620800000000000000
+      internalID: 2779647896078491318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPRITE_1_DEATH_HIELOO-Sheet_0: 5340058011484889392
+      SPRITE_1_DEATH_HIELOO-Sheet_1: -3514033707864681311
+      SPRITE_1_DEATH_HIELOO-Sheet_10: 8403429434633498178
+      SPRITE_1_DEATH_HIELOO-Sheet_11: 1800880173537995829
+      SPRITE_1_DEATH_HIELOO-Sheet_12: 4682576128022249192
+      SPRITE_1_DEATH_HIELOO-Sheet_13: -7057974429581964306
+      SPRITE_1_DEATH_HIELOO-Sheet_14: 4326048308100754088
+      SPRITE_1_DEATH_HIELOO-Sheet_15: -6461647091741032913
+      SPRITE_1_DEATH_HIELOO-Sheet_16: -9110548003408787245
+      SPRITE_1_DEATH_HIELOO-Sheet_17: -2609318352254998092
+      SPRITE_1_DEATH_HIELOO-Sheet_18: -8900018234954572227
+      SPRITE_1_DEATH_HIELOO-Sheet_19: 9132451646675809093
+      SPRITE_1_DEATH_HIELOO-Sheet_2: -8066517792290082024
+      SPRITE_1_DEATH_HIELOO-Sheet_20: 2297488615956050362
+      SPRITE_1_DEATH_HIELOO-Sheet_21: 6985167266583928014
+      SPRITE_1_DEATH_HIELOO-Sheet_22: -6126644148702842607
+      SPRITE_1_DEATH_HIELOO-Sheet_23: -2961632194243963605
+      SPRITE_1_DEATH_HIELOO-Sheet_24: 4790424530623844916
+      SPRITE_1_DEATH_HIELOO-Sheet_25: -1131915582014001776
+      SPRITE_1_DEATH_HIELOO-Sheet_26: 254384676393488905
+      SPRITE_1_DEATH_HIELOO-Sheet_27: -906361890684721176
+      SPRITE_1_DEATH_HIELOO-Sheet_28: -2525085817910455130
+      SPRITE_1_DEATH_HIELOO-Sheet_29: -4809816893373172243
+      SPRITE_1_DEATH_HIELOO-Sheet_3: 4115216923176635359
+      SPRITE_1_DEATH_HIELOO-Sheet_30: 1445521087728463165
+      SPRITE_1_DEATH_HIELOO-Sheet_31: -3710411401616639560
+      SPRITE_1_DEATH_HIELOO-Sheet_32: 9081674594520746941
+      SPRITE_1_DEATH_HIELOO-Sheet_33: -4175439344318752023
+      SPRITE_1_DEATH_HIELOO-Sheet_34: -9041952379508642490
+      SPRITE_1_DEATH_HIELOO-Sheet_35: -6193185337523023447
+      SPRITE_1_DEATH_HIELOO-Sheet_36: -7722743694987168325
+      SPRITE_1_DEATH_HIELOO-Sheet_37: 878845475934908046
+      SPRITE_1_DEATH_HIELOO-Sheet_38: 3480933743066029511
+      SPRITE_1_DEATH_HIELOO-Sheet_39: 5567602996953994072
+      SPRITE_1_DEATH_HIELOO-Sheet_4: -8209310628630040313
+      SPRITE_1_DEATH_HIELOO-Sheet_40: -2482144536407368732
+      SPRITE_1_DEATH_HIELOO-Sheet_41: -3235056440374305144
+      SPRITE_1_DEATH_HIELOO-Sheet_42: 111852957565844514
+      SPRITE_1_DEATH_HIELOO-Sheet_43: 1161481857807760295
+      SPRITE_1_DEATH_HIELOO-Sheet_44: 8997680110774976492
+      SPRITE_1_DEATH_HIELOO-Sheet_45: -5853843721288701153
+      SPRITE_1_DEATH_HIELOO-Sheet_46: 3232970744727952761
+      SPRITE_1_DEATH_HIELOO-Sheet_47: 5179857908341916487
+      SPRITE_1_DEATH_HIELOO-Sheet_48: 6347284416703096105
+      SPRITE_1_DEATH_HIELOO-Sheet_49: 2779647896078491318
+      SPRITE_1_DEATH_HIELOO-Sheet_5: 7857492297371927900
+      SPRITE_1_DEATH_HIELOO-Sheet_6: -2957281096849384805
+      SPRITE_1_DEATH_HIELOO-Sheet_7: -8740479293816487620
+      SPRITE_1_DEATH_HIELOO-Sheet_8: 4836507832421932366
+      SPRITE_1_DEATH_HIELOO-Sheet_9: -8410381883695828826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

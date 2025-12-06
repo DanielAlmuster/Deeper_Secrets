@@ -8,6 +8,7 @@ public class KingSlime : MonoBehaviour
     private GreenSlime greenSlime;
     private Animator Animator;
     public RuntimeAnimatorController[] animationVariants;
+    private MenuController menuController;
 
     private void Start()
     {
@@ -20,6 +21,8 @@ public class KingSlime : MonoBehaviour
         blueSlime.enabled = false;
         redSlime.enabled = false;
         greenSlime.enabled = false;
+
+        menuController = FindAnyObjectByType<MenuController>();
 
         InvokeRepeating("randomScript", 0f, 10f);
     }
@@ -47,4 +50,13 @@ public class KingSlime : MonoBehaviour
             Animator.runtimeAnimatorController = animationVariants[0];
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D other)
+        {
+            if (other.gameObject.CompareTag("LavaTile"))
+            {
+                Debug.Log("Aaa");
+                menuController.Win();
+            }
+        }
 }

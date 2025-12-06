@@ -17,6 +17,7 @@ TagManager:
   - EnemyFireArrow
   - IceArrow
   - KingSlime
+  - LavaTile
   layers:
   - Default
   - TransparentFX
@@ -27,10 +28,10 @@ TagManager:
   - IceEnemyArrow
   - FireEnemyArrow
   - KingSlime
-  - 
-  - 
-  - 
-  - 
+  - StandardArrowSeeker
+  - FireArrowSeeker
+  - IceArrowSeeker
+  - IceEnemy
   - 
   - 
   - 

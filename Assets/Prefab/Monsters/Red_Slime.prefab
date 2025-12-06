@@ -226,4 +226,4 @@ MonoBehaviour:
   seekerLife: {fileID: 0}
   detectionRadius: 7
   projectilePrefab: {fileID: 4599431552222133216, guid: 43296a1158f9b354abb4fcef0177e35f, type: 3}
-  firePoint: {fileID: 0}
+  firePoint: {fileID: 2046781403938106202}

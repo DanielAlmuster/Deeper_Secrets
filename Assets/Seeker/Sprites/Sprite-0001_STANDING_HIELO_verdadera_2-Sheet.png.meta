@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 50e9e22c663675642927da15ca5431b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1258840531816989095
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_0
+  - first:
+      213: -7833023820602029124
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_1
+  - first:
+      213: -3143804357874620799
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_2
+  - first:
+      213: -436691342236491012
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_3
+  - first:
+      213: 418704884078084436
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_4
+  - first:
+      213: 749065793922253524
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_5
+  - first:
+      213: -6209592530014542524
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_6
+  - first:
+      213: 7876341734832622027
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_7
+  - first:
+      213: -960039893147917775
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_8
+  - first:
+      213: 8145082854731971181
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_9
+  - first:
+      213: -2245644214017956336
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_10
+  - first:
+      213: 7361030263837433379
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_11
+  - first:
+      213: 6810755333353346321
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_12
+  - first:
+      213: 5400318444147165971
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_13
+  - first:
+      213: 6133189724418450833
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_14
+  - first:
+      213: -3564342311915343196
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_15
+  - first:
+      213: 5252529255008674816
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_16
+  - first:
+      213: 2788616769486169508
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_17
+  - first:
+      213: -2839941396476926426
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_18
+  - first:
+      213: 4688060825233988380
+    second: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e3f28b433b78ee0800000000000000
+      internalID: -1258840531816989095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc7d716528b4390800000000000000
+      internalID: -7833023820602029124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ee85d796fe54d0800000000000000
+      internalID: -3143804357874620799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26185b98f80f9f0800000000000000
+      internalID: -436691342236491012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4510239afd98fc500800000000000000
+      internalID: 418704884078084436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c120fe57356a00800000000000000
+      internalID: 749065793922253524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44560986e7813d9a0800000000000000
+      internalID: -6209592530014542524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 3
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94842c3136e4d60800000000000000
+      internalID: 7876341734832622027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132e6bebdc04da2f0800000000000000
+      internalID: -960039893147917775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a7c6ea3b5290170800000000000000
+      internalID: 8145082854731971181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0166c8b3c7ed5d0e0800000000000000
+      internalID: -2245644214017956336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1ee84602a72660800000000000000
+      internalID: 7361030263837433379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1159f9804e9a48e50800000000000000
+      internalID: 6810755333353346321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc1694309c1fa40800000000000000
+      internalID: 5400318444147165971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a9003f877d1550800000000000000
+      internalID: 6133189724418450833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a234605d89e88ec0800000000000000
+      internalID: -3564342311915343196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a321478bb4e840800000000000000
+      internalID: 5252529255008674816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5abe75d2823b620800000000000000
+      internalID: 2788616769486169508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e018b8508698d0800000000000000
+      internalID: -2839941396476926426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b1f7d6b765f0140800000000000000
+      internalID: 4688060825233988380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_0: -1258840531816989095
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_1: -7833023820602029124
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_10: -2245644214017956336
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_11: 7361030263837433379
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_12: 6810755333353346321
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_13: 5400318444147165971
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_14: 6133189724418450833
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_15: -3564342311915343196
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_16: 5252529255008674816
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_17: 2788616769486169508
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_18: -2839941396476926426
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_19: 4688060825233988380
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_2: -3143804357874620799
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_3: -436691342236491012
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_4: 418704884078084436
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_5: 749065793922253524
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_6: -6209592530014542524
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_7: 7876341734832622027
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_8: -960039893147917775
+      Sprite-0001_STANDING_HIELO_verdadera_2-Sheet_9: 8145082854731971181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

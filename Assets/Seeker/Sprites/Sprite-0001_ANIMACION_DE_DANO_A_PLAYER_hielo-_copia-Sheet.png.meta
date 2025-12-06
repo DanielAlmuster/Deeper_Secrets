@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: d2feb2697e87afe4489ecce87ca03948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2085344502321218800
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_0
+  - first:
+      213: 2351391131518290215
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_1
+  - first:
+      213: 7163009388097241992
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_2
+  - first:
+      213: 6711004087462731076
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_3
+  - first:
+      213: -6969290617868445064
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_4
+  - first:
+      213: 5469115486551133687
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_5
+  - first:
+      213: -7547910778076120734
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_6
+  - first:
+      213: 6839413450695023595
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_7
+  - first:
+      213: -397181704920454840
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_8
+  - first:
+      213: -2549167521871470691
+    second: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b74d8493e5f03e0800000000000000
+      internalID: -2085344502321218800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c622a6c1d1a020800000000000000
+      internalID: 2351391131518290215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8830354561f186360800000000000000
+      internalID: 7163009388097241992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d196f39a6422d50800000000000000
+      internalID: 6711004087462731076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1d71ab1b184f90800000000000000
+      internalID: -6969290617868445064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc773fe8336eb40800000000000000
+      internalID: 5469115486551133687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2693e6c432f604790800000000000000
+      internalID: -7547910778076120734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb94b0fb4a7aee50800000000000000
+      internalID: 6839413450695023595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849aeeef75dec7af0800000000000000
+      internalID: -397181704920454840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f53e915a98f9cd0800000000000000
+      internalID: -2549167521871470691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_0: -2085344502321218800
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_1: 2351391131518290215
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_2: 7163009388097241992
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_3: 6711004087462731076
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_4: -6969290617868445064
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_5: 5469115486551133687
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_6: -7547910778076120734
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_7: 6839413450695023595
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_8: -397181704920454840
+      Sprite-0001_ANIMACION_DE_DANO_A_PLAYER_hielo-_copia-Sheet_9: -2549167521871470691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

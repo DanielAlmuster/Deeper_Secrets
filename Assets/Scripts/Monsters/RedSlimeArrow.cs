@@ -35,6 +35,7 @@ public class RedSlimeArrow : MonoBehaviour
                 Frozen = true;
                 rb.constraints = RigidbodyConstraints2D.FreezePositionX;
                 rb.constraints = RigidbodyConstraints2D.FreezePositionY;  
+                rb.constraints = RigidbodyConstraints2D.FreezeAll;
                 rb.freezeRotation = true;
                 Destroy(other.gameObject);
                 Invoke("DestroyArrow", 10f);

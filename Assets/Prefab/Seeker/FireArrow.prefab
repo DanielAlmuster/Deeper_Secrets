@@ -29,6 +29,10 @@ PrefabInstance:
       value: FireArrow
       objectReference: {fileID: 0}
     - target: {fileID: 2884709784740757520, guid: 05be21ec9f358034c87da02411925fbe, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2884709784740757520, guid: 05be21ec9f358034c87da02411925fbe, type: 3}
       propertyPath: m_TagString
       value: FireArrow
       objectReference: {fileID: 0}

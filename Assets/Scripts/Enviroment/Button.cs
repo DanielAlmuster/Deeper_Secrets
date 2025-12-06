@@ -17,6 +17,7 @@ public class Button : MonoBehaviour
             Destroy(wall);
             SpriteRenderer sr = rigidbody2D.GetComponent<SpriteRenderer>();
             sr.color = Color.black;
+            other.GetComponent<Seeker_Movement>().respawnPoint = transform.position;
         }
     }
     

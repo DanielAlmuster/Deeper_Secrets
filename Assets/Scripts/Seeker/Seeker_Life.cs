@@ -36,5 +36,8 @@ public class Seeker_Life : MonoBehaviour
         lifes += 1;
     }
 
-    
+    private void Respawn()
+{
+    transform.position = GetComponent<Seeker_Movement>().respawnPoint;
+}
 }
